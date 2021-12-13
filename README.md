@@ -1,1 +1,1 @@
-This app is an Express Tracker that helps you track your yearly expenses on month to month basis.
+This app is an Expense Tracker that helps you track your yearly expenses on month to month basis.
